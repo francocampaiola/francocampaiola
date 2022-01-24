@@ -40,6 +40,6 @@ I'm a **student**, **developer** and **learner**!
   
   ## Contact me
   
-  <a href="https://www.linkedin.com/in/francocampaiola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/francocampaiola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
 
