@@ -36,7 +36,7 @@ I'm a **student**, **developer** and **learner**!
   ## General stats
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francocampaiola&theme=dark&show_icons=true"></img>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
   ## Contact me
   
