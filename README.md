@@ -5,7 +5,7 @@
 I'm a **student**, **developer** and **learner**!
 
 👨‍💻 Currently working in [@novocap](https://github.com/novocap) <br>
-👨‍🎓 Currently studying Multimedial Design in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
+👨‍🎓 Currently studying Web Design and Development in [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 📍  Currently located in Buenos Aires, Argentina <br>
 
 ## Skills Dev
