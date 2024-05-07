@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Franco 👋
 
-👨‍💻 Systems Analyst at [@novocap](https://github.com/novocap) <br>
+👨‍💻 Full Stack Developer at [@Polynomium X](https://github.com/Polynomium-X) <br>
 👨‍🎓 Web Design and Development student at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 📍 Currently located in Buenos Aires, Argentina <br>
 
