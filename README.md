@@ -7,7 +7,7 @@
 📍 Currently located in Buenos Aires, Argentina <br>
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,supabase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,supabase&theme=dark)](https://skillicons.dev)
 
 ## General stats
   
