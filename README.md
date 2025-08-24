@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Franco 👋
 
-👨‍💻 Tech Lead at [@Grayola](https://github.com/grayola) <br>
+👨‍💻 Tech Lead at [@Grayola](https://github.com/grayola-llc) <br>
 👨‍🎓 Web Design and Development degree at [@Escuela Da Vinci](https://davinci.edu.ar) <br>
 📍 Currently located in Buenos Aires, Argentina <br>
 
